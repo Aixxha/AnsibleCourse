@@ -1,0 +1,10 @@
+#!/bin/bash
+OSP_GUID="6dca"
+TOWER_GUID="822e"
+OPENTLC_LOGIN="karin.ceballos@atos.net"
+OPENTLC_PASSWORD="AixxhaSophia1030*"
+GITHUB_REPO="https://github.com/ansible"
+JQ_REPO_BASE="http://www.opentlc.com/download/ansible_bootcamp"
+REGION="us-east-1"
+RH_MAIL_ID="karin.ceballos"
+ANSIBLE_ADVANCE_GUID="6dca"
